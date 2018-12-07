@@ -1,0 +1,23 @@
+<xml>
+
+	<!-- A list of all cards that defines where pips are placed. -->
+	<card name="Sugar mill" value="2" image="cards_7" vp="2" color="violet" x="0" y="0" z="0" flip="0">
+	</card>
+	<card name="City hall" value="6" image="cards_5" vp="?" color="violet" x="0" y="0" z="0" flip="0">
+	</card>
+	<card name="Quarry" value="4" image="cards_6" vp="2" color="violet" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Well" value="2" image="cards_3" vp="1" color="violet" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Indigo plant" value="1" image="cards_8" vp="1" color="blue" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Market stand" value="2" image="cards_1" vp="1" color="violer" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Aqueduct" value="3" image="cards_4" vp="2" color="violet" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Trading post" value="2" image="cards_2" vp="1" color="violet" x="0" y="0" z="0" flip="0">
+  </card>
+  <card name="Market hall" value="4" image="cards_0" vp="2" color="violet" x="0" y="0" z="0" flip="0">
+  </card>
+  
+</xml>
